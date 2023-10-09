@@ -19,8 +19,9 @@ Para realizar estos análisis utilicé el dataset llamado "AccidentesAViones.csv
 Primero comencé por descargar el dataset y lo revisé para evaluar su contenido. Verifiqué cómo estaba separado y cuantas columnas tenía.
 Allí me encontré con varios incovenientes: filas vacías, algunos títulos en mayúscula, otros en minúscula y otros mezclados, titulos separados con guiones y otros sin. También detecté títulos en español y en ingles.
 Por lo que separé primero las columnas por un mismo caracter, la coma. Luego definí un mismo criterio para los títulos e idioma. Eliminé las filas vacías. Separé por columnas y verifiqué su contenido. Eliminé las columnas que eran irrelevantes o que estaban incompletas, ya que no me servían para comenzar mi análisis. Luego agregué las columnas necesarias, y separé por ejemplo la columna "Ruta" en "Country" y "City" y agregué la columna "Year" y "Month". Definí los criterios para que todas las columnas estuvieran completas. Posteriormente hice la revisión para corroborar que las columnas que me quedaron contengan información completa y relevante y tengan los formatos adecuados para poder hacer cruce de datos y análisis de los mismos.
+Guardé los cambios en el dataset.
 
-Una vez ya con los datos listos y limpios guardé los cambios en el dataset, comencé con el análisis EDA.
+Una vez ya con los datos listos y limpios, comencé con el análisis EDA.
 
 `EDA` 
 Con los datos ya listos comencé mi analisis. 
