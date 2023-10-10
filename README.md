@@ -77,8 +77,8 @@ Durante el desarrollo de este proyecto de análisis exploratorio de datos y visu
 
 El repositorio está organizado de la siguiente manera:
 
-README.md: Archivo que contiene la descripción del proyecto, las conclusiones, las visualizaciones y las recomendaciones.
+- README.md: Archivo que contiene la descripción del proyecto, las conclusiones, las visualizaciones y las recomendaciones.
 
-datasets: Contiene el dataset "AccidentesAviones.csv" utilizado en el proyecto.
+- datasets: Contiene el dataset "AccidentesAviones.csv" utilizado en el proyecto.
 
-notebooks: "Proyecto_Individual", Compuesto por el ETL: contiene la limpieza de los datos y armado de nuevos dataframes. EDA: contiene el analisis exploratorio de datos, visualizaciones y primeras conclusiones. Kpi´s: contiene la evaluación de los mismos y su análisis.
+- notebooks: "Proyecto_Individual", Compuesto por el ETL: contiene la limpieza de los datos y armado de nuevos dataframes. EDA: contiene el analisis exploratorio de datos, visualizaciones y primeras conclusiones. Kpi´s: contiene la evaluación de los mismos y su análisis.
