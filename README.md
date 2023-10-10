@@ -29,18 +29,18 @@ Este Dataset contiene información sobre accidentes de aviación con 4990 entrad
 En los diferentes "Markdown" están registradas las conclusiones de cada análisis realizado.
 
 Conclusiones: 
-- Los años con mas muertes en accidentes aéreos fue entre los años 1950 y 2000.
+- Los años con más muertes en accidentes aéreos fueron entre los años 1950 y 2000.
 A partir de principios de la década de 2000, la frecuencia de accidentes comenzó a disminuir y se mantuvo relativamente baja en la década de 2010. La década de 2020 muestra una frecuencia similar a la de principios del siglo XX.
 
-- En las décadas de mayores muertes se dieron la mayor cantidad de sobrevivientes. Se puede ver a partir del año 2000 en adelante un leve incremento de sobrevievientes a accidentes aéreos.
+- En las décadas de mayores muertes se dieron la mayor cantidad de sobrevivientes. Se puede ver que a partir del año 2000 en adelante hay un leve incremento de sobrevievientes en accidentes aéreos.
 
 - El 40% de los tipos de aeronaves y de operadores con más accidentes son militares o de fuerzas armadas.
 
 - Rusia es el país con más accidentes aéreos.
 
-- No suelen haber en un mismo accidente aéreo mayor a 300/400 personas, los casos que hubieron son aislados.
+- No suelen haber muertes mayores a 300/400 personasen en accidentes aéreos, los casos que hubieron son aislados.
 
-- En la última década han disminuido los accidentes y con ello las muertes de tripulantes. Lo que si, aún quedan por tomar medidas preventivas, correctivas y oportunidades de mejora para reforzar y conseguir disminuir la tasa de fatalidad de accidentes propiamente dicho.
+- En la última década han disminuido los accidentes y con ello las muertes de tripulantes. Lo que si, aún quedan por tomar muchas más medidas preventivas, correctivas y oportunidades de mejora para reforzar y conseguir disminuir la tasa de fatalidad de accidentes propiamente dicho.
 
 
 `Dashboard`
