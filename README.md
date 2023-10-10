@@ -25,7 +25,7 @@ Una vez ya con los datos listos y limpios, comencé con el análisis EDA.
 
 `EDA` 
 Con los datos ya listos comencé mi analisis. 
-Este DataFrame contiene información sobre accidentes de aviación con 4990 entradas y 10 columnas que incluyen información sobre la ruta, operador, tipo de aeronave, número total de personas a bordo, número de fallecidos, resumen del incidente, año, mes, ciudad y país. Los tipos de datos predominantes son objetos (strings) para las columnas que contienen texto y enteros de 32 bits para las columnas numéricas.
+Este Dataset contiene información sobre accidentes de aviación con 4990 entradas y 10 columnas que incluyen información sobre la ruta, operador, tipo de aeronave, número total de personas a bordo, número de fallecidos, resumen del incidente, año, mes, ciudad y país. Los tipos de datos predominantes son objetos (strings) para las columnas que contienen texto y enteros de 32 bits para las columnas numéricas.
 En los diferentes "Markdown" están registradas las conclusiones de cada análisis realizado.
 
 * Conclusiones: 
