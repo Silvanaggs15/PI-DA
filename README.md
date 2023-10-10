@@ -81,4 +81,6 @@ El repositorio está organizado de la siguiente manera:
 
 - Datasets: Contiene el dataset "AccidentesAviones.csv" utilizado en el proyecto.
 
+- Dashboard: Contiene el dashboard con la presentación del proyecto en PowerBI y una imagen de la misma.
+
 - Notebooks: "Proyecto_Individual", Compuesto por el ETL: contiene la limpieza de los datos y armado de nuevos dataframes. EDA: contiene el analisis exploratorio de datos, visualizaciones y primeras conclusiones. Kpi´s: contiene la evaluación de los mismos y su análisis.
