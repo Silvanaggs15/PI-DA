@@ -38,7 +38,7 @@ A partir de principios de la década de 2000, la frecuencia de accidentes comenz
 
 - Rusia es el país con más accidentes aéreos.
 
-- No suelen haber muertes mayores a 300/400 personasen en accidentes aéreos, los casos que hubieron son aislados.
+- No suelen haber muertes mayores a 300/400 personas en accidentes aéreos, los casos que hubieron son aislados.
 
 - En la última década han disminuido los accidentes y con ello las muertes de tripulantes. Lo que si, aún quedan por tomar muchas más medidas preventivas, correctivas y oportunidades de mejora para reforzar y conseguir disminuir la tasa de fatalidad de accidentes propiamente dicho.
 
