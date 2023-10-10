@@ -67,7 +67,7 @@ Esta disminución en la cantidad de accidentes indica un esfuerzo positivo por p
 ## Herramientas y tecnología utilizadas:
 Durante el desarrollo de este proyecto de análisis exploratorio de datos y visualización, se utilizaron las siguientes herramientas y tecnologías:
 
-- Python: Se empleó el lenguaje de programación Python para realizar el análisis de datos, manipulación de los conjuntos de datos y generación de gráficos. Se utilizaron bibliotecas como Pandas, seaborn, NumPy y Matplotlib para llevar a cabo estas tareas.
+- Python: Se empleó el lenguaje de programación Python para realizar el análisis de datos, manipulación de los conjuntos de datos y generación de gráficos. Se utilizaron bibliotecas como Pandas, Seaborn, NumPy y Matplotlib para llevar a cabo estas tareas.
 
 - Power BI: Se utilizó Power BI, una herramienta de visualización de datos de Microsoft, para crear el dashboard interactivo.
 
