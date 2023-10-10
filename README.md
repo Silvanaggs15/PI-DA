@@ -28,7 +28,7 @@ Con los datos ya listos comencé mi analisis.
 Este Dataset contiene información sobre accidentes de aviación con 4990 entradas y 10 columnas que incluyen información sobre la ruta, operador, tipo de aeronave, número total de personas a bordo, número de fallecidos, resumen del incidente, año, mes, ciudad y país. Los tipos de datos predominantes son objetos (strings) para las columnas que contienen texto y enteros de 32 bits para las columnas numéricas.
 En los diferentes "Markdown" están registradas las conclusiones de cada análisis realizado.
 
-* Conclusiones: 
+Conclusiones: 
 - Los años con mas muertes en accidentes aéreos fue entre los años 1950 y 2000.
 A partir de principios de la década de 2000, la frecuencia de accidentes comenzó a disminuir y se mantuvo relativamente baja en la década de 2010. La década de 2020 muestra una frecuencia similar a la de principios del siglo XX.
 
